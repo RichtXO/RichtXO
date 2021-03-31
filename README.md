@@ -1,6 +1,6 @@
 # **Richard Tsai**
 
-<img align="right" width="400" height="400" src="./img/coding.png">
+
 
 ## Just another tinkerer majoring CS @ RPI
  * Currently a junior
@@ -17,6 +17,6 @@
 * Others: Git, Docker, NGINX, Linux, Kubernetes
 
 
-
+<img align="right" width="400" height="400" src="./img/coding.png">
 
 
