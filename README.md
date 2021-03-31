@@ -1,8 +1,8 @@
 # **Richard Tsai**
 
-<img align="right" width="350" height="350" src="./img/coding.png">
+<img align="right" width="400" height="400" src="./img/coding.png">
 
-Just another tinkerer majoring CS @ RPI
+## Just another tinkerer majoring CS @ RPI
  * Currently a junior
  * Interests: Cybersecurity, devops
  * Certification: CompTIA Security+  
