@@ -2,7 +2,7 @@
 
 <img align="right" width="400" height="400" src="./img/coding.png">
 
-## Just another tinkerer majoring CS @ RPI
+## Just another CS tinkerer @ RPI
  * Currently a junior
  * Interests: Cybersecurity, devops
  * Certification: CompTIA Security+  
