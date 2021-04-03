@@ -10,7 +10,7 @@
 ## What you been up to?
  * Currently project lead of [YACS.N](https://github.com/YACS-RCOS/yacs.n)
  * Developing and improving [Lil Tim](https://github.com/RichtXO/Lil-Tim)
- * About to remodel personal website with Vue.JS
+ * About to remodel personal website with React
 
 ## Skills
 * Main Languages: C++, Java, C, Python, JS, TS
