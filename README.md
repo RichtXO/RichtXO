@@ -4,13 +4,13 @@
 
 ## Just another CS tinkerer @ RPI
  * Currently a senior
- * Interests: Cybersecurity, devops
+ * Interests: Cybersecurity, devops, fullstack
  * Certification: CompTIA Security+  
 
 ## What you been up to?
  * Currently project lead of [YACS.N](https://github.com/YACS-RCOS/yacs.n)
  * Developing and improving [Lil Tim](https://github.com/RichtXO/Lil-Tim)
- * About to remodel personal website with React
+ * Suffering with senioritis in college
 
 ## Skills
 * Main Languages: C++, Java, C, Python, JS, TS
