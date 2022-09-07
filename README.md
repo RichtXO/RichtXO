@@ -8,9 +8,8 @@
  * Certification: CompTIA Security+  
 
 ## What you been up to?
- * Currently project lead of [YACS.N](https://github.com/YACS-RCOS/yacs.n)
+ * Currently a Cloud Application Developer @ IBM
  * Developing and improving [Lil Tim](https://github.com/RichtXO/Lil-Tim)
- * Enjoying the little time off after graduation :D
 
 ## Skills
 * Main Languages: C++, Java, C, Python, JS, TS
