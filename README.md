@@ -5,7 +5,7 @@
 ## Just another CS tinkerer
  * Located in NYC
  * Interests: Cybersecurity, devops, fullstack
- * Certification: CompTIA Security+  
+ * Certification: CompTIA Security+, AWS Certified Security  
 
 ## What you been up to?
  * Currently a Cloud Application Developer @ IBM
