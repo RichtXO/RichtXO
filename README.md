@@ -5,12 +5,11 @@
 ## Just another CS tinkerer
  * Located in NYC
  * Interests: Cybersecurity, devops, fullstack
- * Certification: CompTIA Security+, AWS Certified Security  
+ * Certification: ISC2 CISSP, CompTIA Security+, AWS Certified Security  
 
 ## What you been up to?
- * Currently a Cloud Application Developer @ IBM
+ * Currently tinkering homelab
  * Developing and improving [Lil Mo](https://github.com/RichtXO/Lil-Mo)
- * Studying for ICS2 CISSP
 
 ## Skills
 * Main Languages: C++, Java, C, Python, JS, TS
