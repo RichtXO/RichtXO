@@ -8,8 +8,8 @@
  * Certification: ISC2 CISSP, CompTIA Security+, AWS Certified Security  
 
 ## What you been up to?
+ * Working at PSEG LI streamlining and securing pipelines
  * Currently tinkering homelab
- * Developing and improving [Lil Mo](https://github.com/RichtXO/Lil-Mo)
 
 ## Skills
 * Main Languages: C++, Java, C, Python, JS, TS
